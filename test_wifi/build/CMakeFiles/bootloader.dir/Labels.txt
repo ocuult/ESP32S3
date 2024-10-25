@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/ChatMachine/code/test_wifi/build/CMakeFiles/bootloader
+D:/ChatMachine/code/test_wifi/build/CMakeFiles/bootloader.rule
+D:/ChatMachine/code/test_wifi/build/CMakeFiles/bootloader-complete.rule
+D:/ChatMachine/code/test_wifi/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/ChatMachine/code/test_wifi/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/ChatMachine/code/test_wifi/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/ChatMachine/code/test_wifi/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/ChatMachine/code/test_wifi/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/ChatMachine/code/test_wifi/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/ChatMachine/code/test_wifi/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
