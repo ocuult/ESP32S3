@@ -17,7 +17,7 @@ const char *Callback(int arg1, double arg2)
 {
     std::cout << "Callback function called with arg1 = " << arg1 << " and arg2 = " << arg2 << std::endl;
     // 注意这里的赋值
-    return "我他妈的是回调函数的返回值测试一下git";
+    return "helooworld";
 }
 
 int main()
